@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hobby programmer from Germany
-Discord: Julicraft_44#1866
+Discord: Julicraft44
 
 
 ## 🌐 Socials:
