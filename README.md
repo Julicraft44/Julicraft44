@@ -9,13 +9,13 @@
 ## 🌐 Contact Me Here:
 - Discord: julicraft44
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Julicraft44&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Julicraft44&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julicraft44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰 Help Me Get My Tea:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/juliansonntag) 
+## 💰 Help Me Get My Tea:
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/juliansonntag) 
 
   <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
   
