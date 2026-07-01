@@ -1,7 +1,7 @@
 # 💫 About Me and Myself:
 - Hobby developer from Germany
 - Learning new stuff every day
-- Training as a system administrator
+- System administrator and DevOps Engineer
 - Certified tea drinker
   
 [![](https://visitcount.itsvg.in/api?id=Julicraft44&icon=5&color=0)](https://visitcount.itsvg.in)
